@@ -1,0 +1,11 @@
+Package: SamplePackage
+Type: Package
+Title: Yin's Some Random Package
+Version: 0.1.0
+Author: Yiqiao Yin
+Maintainer: Yiqiao Yin <eagle0504@gmail.com>
+Description: This package designs some function that I like.
+License: GPL-2
+imports: 
+Encoding: UTF-8
+LazyData: true
